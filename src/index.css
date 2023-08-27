@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #323131;
+}
+
+.header{
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Gruppo', sans-serif;
+  font-size: 2.5rem;
+  color: #6f42c1;
+}
+span{
+  font-family: 'Gruppo', sans-serif;
+  color: white;
+}
